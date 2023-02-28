@@ -1,6 +1,7 @@
 package com.wck.spring.web.mapper;
 
 import java.time.LocalDate;
+import org.junit.jupiter.api.Test;
 
 class UserMapperTest {
 
